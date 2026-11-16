@@ -1,0 +1,3 @@
+# Working files this lab creates (the kind kubeconfig, etc.)
+.work/
+.DS_Store
